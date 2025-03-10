@@ -6,8 +6,7 @@ Test(basic_test, passing_test) {
 
 // Uncomment this test to simulate a failing build
 
-/*
 Test(basic_test, failing_test) {
     cr_assert(1 == 0, "This test should fail");
 }
-*/
+
